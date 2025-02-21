@@ -6,17 +6,24 @@ This project is a portfolio built using Three.js and Vite.
 
 Follow these steps to set up and run the project:
 
-### 1. Navigate to the Project Directory
+### 1. Copy My github Repo & redirect
 ```sh
+git clone https://github.com/fahadhaya72/threejs_portfolio.git
 cd threejs-portfolio
 ```
 
 ### 2. Install Dependencies
 ```sh
+npm install
+npm i
+```
+
+### 3. Install Dependencies
+```sh
 npm install vite
 ```
 
-### 3. Start the Development Server
+### 4. Start the Development Server
 ```sh
 npm run dev
 ```
