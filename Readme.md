@@ -1,40 +1,63 @@
-# Three.js Portfolio
 
-This project is a portfolio built using Three.js and Vite.
+# 🎙️ Speak Recognizer
 
-## Getting Started
+🚀 A Powerful Speech Recognition Assistant
 
-Follow these steps to set up and run the project:
+Listens, converts speech to text, and responds with voice feedback!
 
-### 1. Copy My github Repo & redirect
+# 🔥 Features
+
+✅ Speech-to-Text Conversion using Google Speech Recognition API
+
+✅ Text-to-Speech Response with gTTS (Google Text-to-Speech)
+
+✅ Continuous Listening Mode 🎧
+
+✅ Supports Exit Commands (exit, stop, quit) 🛑
+
+
+# 📥 Installation & Setup
+
+1️⃣ Clone the Repository
+
 ```sh
-git clone https://github.com/fahadhaya72/threejs_portfolio.git
-cd threejs-portfolio
+git clone https://github.com/fahadhaya72/Speak_recognize.git
+cd Speak_recognize
 ```
 
-### 2. Install Dependencies
+2️⃣ Create a Virtual Environment (Recommended)
+
 ```sh
-npm install
-npm i
+python -m venv env
+source env/bin/activate   # On macOS/Linux
+env\Scripts\activate      # On Windows
+```
+3️⃣ Install Dependencies
+
+```sh
+pip install -r requirements.txt
 ```
 
-### 3. Install Dependencies
+4️⃣ Run the Application
+
 ```sh
-npm install vite
+python App.py
 ```
 
-### 4. Start the Development Server
-```sh
-npm run dev
-```
+# 📜 License
 
-The project should now be running locally. Open your browser and go to `http://localhost:5173/` (or the port specified in the terminal) to view it.
+🛡️ All rights reserved by @fhd_hayat.
 
-## Technologies Used
-- Three.js
-- Vite
-- JavaScript
+# 📞 Contact Me
 
-## License
-This project is licensed under the MIT License.
+🔗 GitHub: @fahadhaya72
+
+📧 Email: smr69413@gmail.com
+
+💼 LinkedIn: Fahad Hayat
+
+🎯 HackerRank: cyberfahad72
+
+🌐 Portfolio: My Portfolio
+
 
