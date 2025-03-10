@@ -22,8 +22,8 @@ Listens, converts speech to text, and responds with voice feedback!
 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/fahadhaya72/threejs-portfolio.git
-cd threejs-portfolio
+git clone https://github.com/fahadhaya72/threejs_portfolio.git
+cd threejs_portfolio
 ```
 
 2️⃣ Create a Virtual Environment (Recommended)
