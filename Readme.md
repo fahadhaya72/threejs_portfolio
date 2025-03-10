@@ -22,8 +22,8 @@ Listens, converts speech to text, and responds with voice feedback!
 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/fahadhaya72/Speak_recognize.git
-cd Speak_recognize
+git clone https://github.com/fahadhaya72/threejs-portfolio.git
+cd threejs-portfolio
 ```
 
 2️⃣ Create a Virtual Environment (Recommended)
@@ -36,7 +36,8 @@ env\Scripts\activate      # On Windows
 3️⃣ Install Dependencies
 
 ```sh
-pip install -r requirements.txt
+npm install
+npm install i
 ```
 
 4️⃣ Run the Application
